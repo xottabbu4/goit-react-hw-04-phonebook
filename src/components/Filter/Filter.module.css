@@ -1,0 +1,20 @@
+.filterLabel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.filterText {
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.filterInput {
+  display: block;
+  width: 250px;
+  height: 30px;
+  margin-bottom: 10px;
+  padding: 3px 5px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}

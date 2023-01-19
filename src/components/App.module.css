@@ -1,0 +1,18 @@
+.phonebook {
+  max-width: 600px;
+  min-width: 320px;
+  margin: 0 auto;
+  padding: 30px;
+  border: 2px solid grey;
+  border-radius: 10px;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 15px 20px;
+}

@@ -1,0 +1,33 @@
+.contactList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contactItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.contactInfo {
+    display: block;
+    width: 250px;
+    margin-bottom: 5px;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.contactItemButton {
+    display: block;
+    width: 150px;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+    border: none;
+    font-weight: 700;
+    border-radius: 5px;
+}
